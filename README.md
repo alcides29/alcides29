@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋 This is Alcides
+
+
+I'm Software Engineer, with experience in object oriented programming, automation processes, data analysis and IT auditing. With knowledge of Python, Java, SQL, HTML and CSS. At the moment I'm open to job opportunities.
+
+Lately my area of interest are Open Source, Linux, Python :snake:, Robotic Process Automation. I’m currently collaborating on the translation of the official Python Documentation to Spanish ([Si quieres unirte](https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html)).
+If you want to know me a little more, take a look at my [LinkedIn](https://www.linkedin.com/in/arivarola/)
 
 <!--
 **alcides29/alcides29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
