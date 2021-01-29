@@ -1,9 +1,9 @@
 # Hi there 👋 This is Alcides
 
 
-I'm Software Engineer, with experience in object oriented programming, automation processes, data analysis and IT auditing. I like working with Python, SQL, HTML and CSS. At the moment I'm open to job opportunities.
+I'm Software Engineer, with experience in object oriented programming, automation processes, data analysis and IT auditing. I like working with Linux, Python, SQL, security, cryptography, cloud, exploring new tools and technologies.
 
-Lately my area of interest are Data Science, Open Source, Linux, Python :snake:, Robotic Process Automation. I’m currently collaborating on the translation of the official Python Documentation to Spanish ([Si quieres unirte](https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html)).
+Lately my areas of interest are Data Science, Open Source, Linux, Python :snake:, Robotic Process Automation. I’m currently collaborating on the translation of the official Python Documentation to Spanish ([Si quieres unirte](https://python-docs-es.readthedocs.io/es/3.8/CONTRIBUTING.html)).
 If you want to know me a little more, take a look at my [LinkedIn](https://www.linkedin.com/in/arivarola/)
 
 <!--
